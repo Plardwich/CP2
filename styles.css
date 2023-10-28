@@ -1,0 +1,84 @@
+/*
+    Name: Jason Wilkie
+    Date:  October 26, 2023
+    This is the styles.css page for my about page and my hubble telescope page.
+    It is used by all pages in my about page to give the site a consistent
+    look and feel.
+*/
+body {
+  background-color: rgb(137, 182, 154);
+  font-family: "Helvetica", sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+#astro {
+  text-align: center;
+  margin-top: 3%;
+}
+
+#telescope, #kraken {
+  width: 400px;
+}
+
+#astroBody {
+  background-color: lightgrey;
+  font-family: "Roboto", sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+#astroLink {
+  display: block;
+  text-align: center;
+}
+
+.quote {
+  margin-right: 31%;
+  margin-left: 31%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  background: grey;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#hubble {
+  width: 300px;
+}
+
+#magnet, #hubble2 {
+  width: 700px;
+}
+
+#webb {
+  width: 500px;
+}
+
+#bang {
+  text-align: center;
+}
+
+#bangGif {
+
+}
+
+#astroMain {
+  display: block;
+}
+
+footer > cite {
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
